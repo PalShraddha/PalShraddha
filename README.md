@@ -23,9 +23,6 @@
 <a href="https://linkedin.com/in/shraddha-pal-54107920a" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
-<a href="https://www.hackerrank.com/20016415500034iot" target="_blank">
-  <img src="https://skillicons.dev/icons?i=hackerrank" height="45"/>
-</a>
 <a href="https://leetcode.com/shraddha_pal49" target="_blank">
   <img src="https://skillicons.dev/icons?i=leetcode" height="45"/>
 </a>
