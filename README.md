@@ -1,31 +1,101 @@
-[![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)
-<h1 align="center">Hi 👋, I'm Shraddha Pal</h1>
-<h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif">
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Shraddha+Pal!;AI%2FML+%26+IoT+Developer;M.Tech+CSE+(AI%2FML)+@+Chandigarh+University;Passionate+about+Smart+Tech+%26+Innovation!" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=palshraddha&label=Profile%20views&color=0e75b6&style=flat" alt="palshraddha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palshraddha" alt="palshraddha" /></a> </p>
-
-- 🌱 I’m currently learning **React Native,Unity**
-
-- 💬 Ask me about **Android,MERN**
-
-- 📫 How to reach me **shraddha.pal5533@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shraddha-pal-54107920a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shraddha-pal-54107920a" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/20016415500034iot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="20016415500034iot" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shraddha_pal49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shraddha_pal49" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shraddhapal5533" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shraddhapal5533" height="30" width="40" /></a>
+<!-- Glowing Banner -->
+<p align="center">
+  <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/main/demo.gif" width="100%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palshraddha&show_icons=true&locale=en&layout=compact" alt="palshraddha" /></p>
+### 🌟 About Me
+- 💡 Interested in **AI/ML**, **IoT**, and **Cloud-based Smart Systems**
+- 💬 Ask me about **Android**, **MERN Stack**, and **Python Automation**
+- 📫 Reach me at: **shraddha.pal5533@gmail.com**
+- ⚡ Fun fact: *“I believe in connecting intelligence with real-world impact.”*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palshraddha&show_icons=true&locale=en" alt="palshraddha" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palshraddha&" alt="palshraddha" /></p>
+### 🌐 Connect with Me
+<p align="center">
+<a href="https://linkedin.com/in/shraddha-pal-54107920a" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+<a href="https://www.hackerrank.com/20016415500034iot" target="_blank">
+  <img src="https://skillicons.dev/icons?i=hackerrank" height="45"/>
+</a>
+<a href="https://leetcode.com/shraddha_pal49" target="_blank">
+  <img src="https://skillicons.dev/icons?i=leetcode" height="45"/>
+</a>
+<a href="https://auth.geeksforgeeks.org/user/shraddhapal5533" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" height="45"/>
+</a>
+</p>
+
+---
+
+### 🧰 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,mongodb,mysql,androidstudio,flutter,django,tensorflow,git,aws,unity,bootstrap,html,css" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 🛰️ SmartCare: IoT-Enhanced Dementia Monitoring System
+> Real-time IoT & web-based system for dementia care using React, Node.js & SQL  
+🧩 *Tech:* C++, React, Node.js, SQL  
+
+#### 🔐 BioHex Security System
+> Blockchain-based biometric system ensuring secure access with instant alerts  
+🧩 *Tech:* C++, Python, Cloud  
+
+#### 🎯 Micro Doppler Target Classification
+> AI-powered radar-based target detection for defense systems  
+🧩 *Tech:* Python, FTS, Signal Processing  
+
+---
+
+### 🎓 Education
+
+| 🎓 Degree | 🏛️ Institution | 📅 Duration | 📚 Coursework |
+|------------|----------------|-------------|----------------|
+| **M.Tech in Computer Science & Engineering (AI/ML)** | Chandigarh University, Mohali | *Aug 2025 – Aug 2027* | AI/ML, Computational Intelligence, Statistics, Probability |
+| **B.Tech in Computer Science (IoT)** | PSIT Kanpur | *Dec 2020 – June 2024* | IoT, DBMS, OS, Networks, Probability |
+| **Intermediate (Science)** | B.L.S.S.S. Inter College, Kanpur | *May 2020* | Mathematics, Physics, Statistics |
+
+---
+
+### 🏆 Achievements & Leadership
+- 🥇 **Top 20 Finalist** – Microsoft Azure Women’s Hackathon  
+- 💡 **GDSC Core Member** – Led IoT and Smart Tech workshops  
+- 🔢 **Solved 500+ problems** on LeetCode, CodeChef & GFG  
+- 🤝 Collaborated on **AI/ML research & IoT prototypes**
+
+---
+
+### 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=palshraddha&theme=radical" alt="GitHub Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=palshraddha&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palshraddha&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 💫 Quote
+> _“Code with logic. Create with passion. Build for impact.”_
+
+---
+
+<!-- Footer Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
