@@ -38,7 +38,7 @@
 
 ### 🧰 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,mongodb,mysql,androidstudio,flutter,django,tensorflow,git,aws,unity,bootstrap,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,mysql,androidstudio,flutter,django,git,aws,bootstrap,html,css,SAS Model Studio,Open CV" />
 </p>
 
 ---
