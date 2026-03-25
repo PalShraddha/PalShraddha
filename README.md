@@ -35,8 +35,8 @@
 
 ### 🧰 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,mongodb,mysql,androidstudio,flutter,django,tensorflow,git,aws,unity,bootstrap,html,css" />
-  <img src="https://skillicons.dev/icons?i=python,react,nodejs,mysql,androidstudio,flutter,django,git,aws,bootstrap,html,css,SAS Model Studio,Open CV" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,mongodb,mysql,tensorflow,aws,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,mysql,aws,SAS Model Studio," />
 </p>
 
 ---
@@ -61,7 +61,7 @@
 
 | 🎓 Degree | 🏛️ Institution | 📅 Duration | 📚 Coursework |
 |------------|----------------|-------------|----------------|
-| **M.Tech in Computer Science & Engineering (AI/ML)** | Chandigarh University, Mohali | *Aug 2025 – Aug 2027* | AI/ML, Computational Intelligence, Statistics, Probability |
+| **M.Tech in Computer Science & Engineering (AI/ML)** | Chandigarh University | *Aug 2025 – Aug 2027* | AI/ML, Computational Intelligence, Statistics, Probability |
 | **B.Tech in Computer Science (IoT)** | PSIT Kanpur | *Dec 2020 – June 2024* | IoT, DBMS, OS, Networks, Probability |
 | **Intermediate (Science)** | B.L.S.S.S. Inter College, Kanpur | *May 2020* | Mathematics, Physics, Statistics |
 
