@@ -2,7 +2,7 @@
 
 🎓 Computer Science Student  
 🤖 AI & Machine Learning | Deep Learning | Signal Processing  
-🌐 IEEE Member | IEEE Women in Engineering  
+🌐 GSMIEEE | IEEE Women in Engineering  
 📍 Kanpur, Uttar Pradesh, India  
 
 ---
